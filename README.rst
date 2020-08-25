@@ -1,6 +1,7 @@
-discord.py
+harmony.py
 ==========
 
+This is a modification of discord.py for personal uses, as it's mostly for personal use I'm not going to change things like this file unless there is demand for this repo and I should
 .. image:: https://discord.com/api/guilds/336642139381301249/embed.png
    :target: https://discord.gg/r3sSKJJ
    :alt: Discord server invite
